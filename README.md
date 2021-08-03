@@ -16,7 +16,7 @@ body {
 /* Style the header */
 .header {
   background-color: purple;
-  color: pink
+  color: pink;
   padding: 20px;
   text-align: center;
 }
@@ -36,7 +36,7 @@ body {
   padding: 14px 16px;
   text-decoration: none;
 }
-/* Create three unequal columns that floats next to each other */
+/* Create two unequal columns that floats next to each other */
 .column {
   float: left;
   padding: 10px;
@@ -44,11 +44,6 @@ body {
 
 /* Left and right column */
 .column.side {
-  width: 25%;
-}
-
-/* Middle column */
-.column.middle {
   width: 50%;
 }
 
@@ -57,6 +52,13 @@ body {
   content: "";
   display: table;
   clear: both;
+}
+/* Style the footer */
+.footer {
+  background-color: purple;
+  color: pink;
+  padding: 10px;
+  text-align: center;
 }
 </style>
 </head>
@@ -86,26 +88,6 @@ body {
     <li>MSAsset</li>
     <li>Phynet/ PNaaS</li>
     <li>GDCO</li>
-  </div>
-
-  <div class="column middle">
-    <h2>My Experience:</h2>
-    <p>Microsoft May 2017- Present</p>
-    <p>Site Services Technician Boydton, VA</p>
-    <p>Daily collaboration amongst a team of diverse professionals to support physical infrastructure, cabling, parts/component replacements, and troubleshooting of DC operations.<br>
-    Responsible for effectively prioritizing daily assignments of tasks and tickets based on business requirements.<br>
-    <p>Relied upon to complete high visibility HBI Asset Audits across Multiple Datacenters to enable compliance and regulatory audit preparation activities.<br>
-    Focused on flexibility to support the Datacenter in any capacity when called upon.<br>
-    Takes pride in providing outstanding customer service through highly developed communication skills.<br>
-    Ensure processes and procedures are followed, and that trust and integrity is maintained per Microsoft Global Foundation Services policy.</p>
-<br>
-    <p>Atos IT Solutions & Services</p>
-    <p>February 2015 – May 2017</p>
-    <p>Site Services Technician Boydton, VA</p>
-    Monitor and control daily service ticket activity, customer calls and service levels<br>
-    Resolve technical problems with hardware, software and connectivity<br>
-    Install/ upgrade/ replace server, device, or network components as needed<br>
-    Networking support (protocols, troubleshooting connectivity)</p>
   </div>
 
   <div class="column side">
