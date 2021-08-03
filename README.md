@@ -39,6 +39,7 @@ body {
   text-decoration: none;
   p.dotted {border-style: dotted;}
 }
+
 /* Create one column for skills */
 .column {
   float: left;
@@ -46,15 +47,17 @@ body {
   padding: 10px;
   p.dotted {border-style: dotted;}
 }
-/* Create one sidebar for skills */
+/* Left column */
+.column.side {
+  width: 75%;
+}
+
+/* Create one sidebar for learnings */
 float: right;
 text-align: center;
 padding: 10px;
 p.dotted {border-style: dotted;}
-
-/* Left column */
-.column.side {
-  width: 75%;
+}
 
 /* Sidebar */
   .aside {
@@ -68,6 +71,7 @@ p.dotted {border-style: dotted;}
   text-align: center;
   p.dotted {border-style: dotted;}
 }
+
 /* Create one column for text under floating columns */
 .column {
   float: center;
