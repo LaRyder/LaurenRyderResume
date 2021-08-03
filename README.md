@@ -39,19 +39,13 @@ body {
 /* Create two unequal columns that floats next to each other */
 .column {
   float: left;
+  text-align: left;
   padding: 10px;
 }
 
 /* Left and right column */
 .column.side {
   width: 50%;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
 }
 /* Style the footer */
 .footer {
@@ -60,6 +54,16 @@ body {
   padding: 10px;
   text-align: center;
 }
+/* Create one column for text under floating columns */
+.column {
+  float: center;
+  text-align: center;
+  padding: 10px;
+  /* Center column */
+  .column.Center {
+    width: 100%;
+}
+
 </style>
 </head>
 <body>
@@ -107,10 +111,30 @@ body {
       <dd><a href="https://www.linkedin.com/learning/introduction-to-css/welcome?u=3322">View Course on LinkedIn</a></dd>
     </dl>
   </div>
+
+  <div class="column center">
+  <h5>My Experience:</h5>
+  <p>Microsoft May 2017- Present</p>
+  <p>Site Services Technician Boydton, VA</p>
+  <p>Daily collaboration amongst a team of diverse professionals to support physical infrastructure, cabling, parts/component replacements, and troubleshooting of DC operations.<br>
+  Responsible for effectively prioritizing daily assignments of tasks and tickets based on business requirements.<br>
+  <p>Relied upon to complete high visibility HBI Asset Audits across Multiple Datacenters to enable compliance and regulatory audit preparation activities.<br>
+  Focused on flexibility to support the Datacenter in any capacity when called upon.<br>
+  Takes pride in providing outstanding customer service through highly developed communication skills.<br>
+  Ensure processes and procedures are followed, and that trust and integrity is maintained per Microsoft Global Foundation Services policy.</p>
+<br>
+  <p>Atos IT Solutions & Services</p>
+  <p>February 2015 – May 2017</p>
+  <p>Site Services Technician Boydton, VA</p>
+  Monitor and control daily service ticket activity, customer calls and service levels<br>
+  Resolve technical problems with hardware, software and connectivity<br>
+  Install/ upgrade/ replace server, device, or network components as needed<br>
+  Networking support (protocols, troubleshooting connectivity)</p>
+ </div>
 </div>
 
 <div class="footer">
-  <h4>Education</h4>
+  <h5>Education</h5>
   <p>University of Phoenix September 2012<br>
   Associates of Arts, Intro to Information Technology<br>
   GPA 3.0/4.0<br>
