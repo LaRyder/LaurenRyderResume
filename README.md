@@ -1,23 +1,27 @@
 
 <html>
 <head>
-<center>
 <style>
 body {background-color: Purple;}
 h1, h2, h3, h4, h5, h6  {color: white;}
 p, li, footer, small {color: white;}
-</style>
+
 <h1 style="color:pink;">Lauren Ryder</h1>
 ![me](Lauren.jpg)
+.container {
+  display: flex;
+  flex direction: column;
 <div class="banner">
 <header>
 <h2><Strong>Deployment Technician / Leap Apprentice</strong></h2>
 <h3>Over 6 years of experience as a solution driven information technology professional with proven education and experience while delivering projects and throughput well within targeted SLAs.</h3>
-</center>
+}
 
+.sidebar {
+  float: right;
 <div id="sidebar">
 		<aside>
-			<h1>Leap Learnings!</h1>
+			<h4>Leap Learnings!</h4>
 			<dl>
 				<dt><strong>Essential Training: The Basics</strong></dt>
 				<dd>Learn how to use Git, the popular open-source version control software, to manage the source code for almost any project.</dd>
@@ -34,9 +38,12 @@ p, li, footer, small {color: white;}
 			</dl>
 		</aside>
 	</div>
+}
 
+.content {
+  float: left;
 <body>
-<h4><b>My Specific Skills:</b></h4>
+<b>My Specific Skills:</b>
   <li>HP Server Hardware support</li>
   <li>Cisco, F5 and Juniper Network </li>  
   <li>Datacenter network infrastructure</li>
@@ -49,7 +56,7 @@ p, li, footer, small {color: white;}
   <li>MSAsset</li>
   <li>Phynet/ PNaaS</li>
   <li>GDCO</li>
-<h5><b>My Experience:</b></h5>
+<b>My Experience:</b>
 <small>Microsoft May 2017- Present
 Site Services Technician Boydton, VA
 <p>Daily collaboration amongst a team of diverse professionals to support physical infrastructure, cabling, parts/component replacements, and troubleshooting of DC operations.</P>
@@ -67,10 +74,11 @@ Site Services Technician Boydton, VA
 <p>Install/ upgrade/ replace server, device, or network components as needed</p>
 <p>Networking support (protocols, troubleshooting connectivity)</p>
 </small>
-
-<footer>
-<h6><b>Education:</b></h6>
+}
+.footer {
+  clear:both;
+<b>Education:</b>
 University of Phoenix September 2012
 Associates of Arts, Intro to Information Technology  
 GPA 3.0/4.0
-</footer>
+}
