@@ -10,7 +10,6 @@ p {color: white;}
 </style>
 <h1 style="color:pink;">Lauren Ryder</h1>
 
-</head>
 
 <body>
 <div class="banner">
