@@ -11,14 +11,16 @@ p, li, footer, small {color: white;}
 .container {
   display: flex;
   flex direction: column;
+}
 <div class="banner">
 <header>
 <h2><Strong>Deployment Technician / Leap Apprentice</strong></h2>
 <h3>Over 6 years of experience as a solution driven information technology professional with proven education and experience while delivering projects and throughput well within targeted SLAs.</h3>
-}
+
 
 .sidebar {
   float: right;
+}
 <div id="sidebar">
 		<aside>
 			<h4>Leap Learnings!</h4>
@@ -38,10 +40,11 @@ p, li, footer, small {color: white;}
 			</dl>
 		</aside>
 	</div>
-}
+
 
 .content {
   float: left;
+}
 <body>
 <b>My Specific Skills:</b>
   <li>HP Server Hardware support</li>
@@ -74,12 +77,11 @@ Site Services Technician Boydton, VA
 <p>Install/ upgrade/ replace server, device, or network components as needed</p>
 <p>Networking support (protocols, troubleshooting connectivity)</p>
 </small>
-}
 
 .footer {
   clear:both;
+}
 <b>Education:</b>
 University of Phoenix September 2012
 Associates of Arts, Intro to Information Technology  
 GPA 3.0/4.0
-}
