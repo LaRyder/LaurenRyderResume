@@ -8,7 +8,7 @@ p, li, footer, small {color: white;}
 
 <h1 style="color:pink;">Lauren Ryder</h1>
 
-.container {
+.box1 {
   display: flex;
   flex direction: column;
 }
@@ -18,7 +18,7 @@ p, li, footer, small {color: white;}
 <h3>Over 6 years of experience as a solution driven information technology professional with proven education and experience while delivering projects and throughput well within targeted SLAs.</h3>
 
 
-.sidebar {
+.box2 {
   float: right;
 }
 <div id="sidebar">
@@ -42,7 +42,7 @@ p, li, footer, small {color: white;}
 	</div>
 
 
-.content {
+.box3 {
   float: left;
 }
 <body>
