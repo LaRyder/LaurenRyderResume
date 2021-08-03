@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-<Title> Lauren Ryder </Title>
-![styles.css] (styles.css)
+<b> Lauren Ryder </b>
+[id]: url "styles.css"
 </head>
 
 <h1> Deployment Technician / Leap Apprentice </h1>
