@@ -109,10 +109,8 @@ Site Services Technician Boydton, VA
 </small>
 
 <div class="footer">
-  <p><b>Education<b></p>
+  <p>Education<</p>
   University of Phoenix September 2012
   Associates of Arts, Intro to Information Technology
   GPA 3.0/4.0
 </div>
-<h6><b>Education:</b></h6>
-GPA 3.0/4.0
