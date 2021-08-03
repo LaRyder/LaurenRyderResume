@@ -1,21 +1,31 @@
 
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<center>
+<title>Lauren Ryder</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-body {background-color: Purple;}
-h1, h2, h3, h4, h5, h6  {color: white;}
-p, li, footer, small {color: white;}
-</style>
-<h1 style="color:pink;">Lauren Ryder</h1>
-
-<div class="banner">
-<header>
-.header {
-  background-color: #F1F1F1;
-  text-align: center;
-  padding: 20px;
+body {
+  margin: 0;
 }
+
+/* Style the header */
+.header {
+  background-color: purple;
+  padding: 20px;
+  text-align: center;
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>Header</h1>
+</div>
+
+</body>
+</html>
 <h2><Strong>Deployment Technician / Leap Apprentice</strong></h2>
 <h3>Over 6 years of experience as a solution driven information technology professional with proven education and experience while delivering projects and throughput well within targeted SLAs.</h3>
 
