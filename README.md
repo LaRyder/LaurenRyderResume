@@ -1,6 +1,5 @@
 
 <html>
-<del>LaurenRyderResume</del>
 <head>
 <center>
 <style>
@@ -10,11 +9,12 @@ p, li, footer, small {color: white;}
 </style>
 <h1 style="color:pink;">Lauren Ryder</h1>
 
-
-<header>
 <div class="banner">
+<header>
 <h2><Strong>Deployment Technician / Leap Apprentice</strong></h2>
 <h3>Over 6 years of experience as a solution driven information technology professional with proven education and experience while delivering projects and throughput well within targeted SLAs.</h3>
+</div>
+
 <div id="sidebar">
 		<aside>
 			<h1>Leap Learnings!</h1>
@@ -34,6 +34,7 @@ p, li, footer, small {color: white;}
 			</dl>
 		</aside>
 	</div>
+
 <body>
 <h4><b>My Specific Skills:</b></h4>
 <li>
