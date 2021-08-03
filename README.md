@@ -19,12 +19,14 @@ body {
   color: pink;
   padding: 20px;
   text-align: center;
+  p.dotted {border-style: dotted;}
 }
 
 /* Style the top navigation bar */
 .topnav {
   overflow: hidden;
   background-color: purple;
+  p.dotted {border-style: dotted;}
 }
 
 /* Style the topnav links */
@@ -35,17 +37,28 @@ body {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  p.dotted {border-style: dotted;}
 }
-/* Create two unequal columns that floats next to each other */
+/* Create one column for skills */
 .column {
   float: left;
   text-align: left;
   padding: 10px;
+  p.dotted {border-style: dotted;}
 }
+/* Create one sidebar for skills */
+float: right;
+text-align: center;
+padding: 10px;
+p.dotted {border-style: dotted;}
 
-/* Left and right column */
+/* Left column */
 .column.side {
-  width: 50%;
+  width: 75%;
+
+/* Sidebar */
+  .aside {
+  width: 25%;
 }
 /* Style the footer */
 .footer {
@@ -53,6 +66,7 @@ body {
   color: pink;
   padding: 10px;
   text-align: center;
+  p.dotted {border-style: dotted;}
 }
 /* Create one column for text under floating columns */
 .column {
@@ -62,6 +76,7 @@ body {
   /* Center column */
   .column.Center {
     width: 100%;
+    p.dotted {border-style: dotted;}
 }
 
 </style>
@@ -79,7 +94,7 @@ body {
 
 <div class="row">
   <div class="column side">
-  <h2>My Specific Skills:</h2>
+  <h2><b> Specific Skills:</b></h2>
     <li>HP Server Hardware support</li>
     <li>Cisco, F5 and Juniper Network </li>  
     <li>Datacenter network infrastructure</li>
@@ -94,8 +109,9 @@ body {
     <li>GDCO</li>
   </div>
 
-  <div class="column side">
-    <h3>Leap Learnings!</h3>
+  <div class="sidebar">
+   <aside>
+    <h3><b>Leap Learnings!</b></h3>
     <dl>
       <dt><strong>Essential Training: The Basics</strong></dt>
       <dd>Learn how to use Git, the popular open-source version control software, to manage the source code for almost any project.</dd>
@@ -110,10 +126,11 @@ body {
       <dd>This course gives you a tour of the possibilities, showing what CSS is capable of doing and the basics you need to make it work for you.</dd>
       <dd><a href="https://www.linkedin.com/learning/introduction-to-css/welcome?u=3322">View Course on LinkedIn</a></dd>
     </dl>
+    </aside>
   </div>
 
   <div class="column center">
-  <h5>My Experience:</h5>
+  <h5><b>My Experience:</b></h5>
   <p>Microsoft May 2017- Present</p>
   <p>Site Services Technician Boydton, VA</p>
   <p>Daily collaboration amongst a team of diverse professionals to support physical infrastructure, cabling, parts/component replacements, and troubleshooting of DC operations.<br>
