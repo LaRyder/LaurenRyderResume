@@ -2,12 +2,14 @@
 <!DOCTYPE html>
 <html>
 <head>
+<center>
 <style>
 body {background-color: powderblue;}
 h1   {color: blue;}
 p    {color: red;}
 </style>
 <h1 style="color:pink;">Lauren Ryder</h1>
+![lauren](LaurenRyderResume\Lauren.JPG)
 
 </head>
 
@@ -35,22 +37,20 @@ p    {color: red;}
 <b>Experience:</b>
 Microsoft May 2017- Present
 Site Services Technician Boydton, VA
-Daily collaboration amongst a team of diverse professionals to support physical infrastructure, cabling, parts/component replacements, and troubleshooting of DC operations.
-Seamlessly executes work orders via GDCO in a fast paced, high volume environment while delivering work inside aggressive deadlines.
-Responsible for effectively prioritizing daily assignments of tasks and tickets based on business requirements.
-Relied upon to complete high visibility HBI Asset Audits across Multiple Datacenters to enable compliance and regulatory audit preparation activities.
-Focused on flexibility to support the Datacenter in any capacity when called upon.
-Takes pride in providing outstanding customer service through highly developed communication skills.
-Ensure processes and procedures are followed, and that trust and integrity is maintained per Microsoft Global Foundation Services policy.
+<p>Daily collaboration amongst a team of diverse professionals to support physical infrastructure, cabling, parts/component replacements, and troubleshooting of DC operations.</P>
+<p>Responsible for effectively prioritizing daily assignments of tasks and tickets based on business requirements.</P>
+<p>Relied upon to complete high visibility HBI Asset Audits across Multiple Datacenters to enable compliance and regulatory audit preparation activities.</P>
+<p>Focused on flexibility to support the Datacenter in any capacity when called upon.</P>
+<p>Takes pride in providing outstanding customer service through highly developed communication skills.</P>
+<p>Ensure processes and procedures are followed, and that trust and integrity is maintained per Microsoft Global Foundation Services policy.</P>
 
 Atos IT Solutions & Services                  
 February 2015 – May 2017
 Site Services Technician Boydton, VA
-Monitor and control daily service ticket activity, customer calls and service levels
-Resolve technical problems with hardware, software and connectivity
-Install/ upgrade/ replace server, device, or network components as needed
-Windows Server OS Support (2008/2012)
-Networking support (protocols, troubleshooting connectivity)
+<p>Monitor and control daily service ticket activity, customer calls and service levels</p>
+<p>Resolve technical problems with hardware, software and connectivity</p>
+<p>Install/ upgrade/ replace server, device, or network components as needed</p>
+<p>Networking support (protocols, troubleshooting connectivity)</p>
 <footer>
 <b>Education:</b>
 University of Phoenix September 2012
@@ -58,4 +58,5 @@ Associates of Arts, Intro to Information Technology
 GPA 3.0/4.0
 </footer>
 </body>
+</center>
 </html>
