@@ -5,8 +5,9 @@
 body {
   margin: 0;
     background-color: purple;
-    color: pink;
-    border-style: dotted
+    color: pink
+    border-style: solid;
+    border-color: pink
 }
 
 /* Style the header */
@@ -14,12 +15,14 @@ body {
   color: pink;
   padding: 20px;
   text-align: center;
-  display:flex
+  display:flex;
+  border-style:dotted
 }
 
 /* Style the top navigation bar */
 .topnav {
   overflow: hidden;
+  border-style:dotted
 }
 
 /* Style the topnav links */
@@ -29,26 +32,25 @@ body {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  border-style:dotted
 }
 
 /* Create one column for skills */
 .column {
   text-align: left;
   padding: 10px;
+  border-style:dotted
 }
 /* Left column */
 .column.side {
   width: 75%;
-}
-
-/* Create one sidebar for learnings */
-p.dotted {
-  border-style: dotted;
+  border-style:dotted
 }
 
 /* Sidebar */
 aside {
   width: 25%;
+  border-style:dotted
 }
 /* Style the footer */
 .footer {
@@ -56,18 +58,22 @@ aside {
   color: pink;
   padding: 10px;
   text-align: center;
+  border-style: dotted
 }
 
 /* Create one column for text under floating columns */
 .column {
-  padding: 10px
+  padding: 10px;
+  border-style:dotted
 }
 
 /* Center column */
 .column.Center {
   width: 100%;
+  border-style: dotted
 }
 
 .side_by_side {
   display: flex;
+  border-style: dotted
 }
