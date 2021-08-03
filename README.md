@@ -54,8 +54,6 @@ body {
 <div class="topnav">
   <a href="www.linkedin.com/in/lauren-ryder-00675617b"> Lauren's Linkedin</a>
 </div>
-</body>
-</html>
 
 <div id="sidebar">
 		<aside>
@@ -110,9 +108,11 @@ Site Services Technician Boydton, VA
 <p>Networking support (protocols, troubleshooting connectivity)</p>
 </small>
 
-<footer>
+<div class="footer">
+  <p><b>Education<b></p>
+  University of Phoenix September 2012
+  Associates of Arts, Intro to Information Technology
+  GPA 3.0/4.0
+</div>
 <h6><b>Education:</b></h6>
-University of Phoenix September 2012
-Associates of Arts, Intro to Information Technology  
 GPA 3.0/4.0
-</footer>
