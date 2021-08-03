@@ -1,16 +1,14 @@
 
-<!DOCTYPE html>
 <html lang="en">
-
-body {
-  background-color: Pink;
-}
-
 <head>
 <title>Lauren Ryder</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
+* {
+  box-sizing: border-box;
+}
+
 body {
   margin: 0;
 }
@@ -21,9 +19,43 @@ body {
   padding: 20px;
   text-align: center;
 }
+
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: purple;
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: Center;
+  display: block;
+  color: pink;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
 </style>
 </head>
 <body>
+
+<div class="header">
+  <h1>Lauren Ryder</h1>
+  <h2><Strong>Deployment Technician / Leap Apprentice</strong></h2>
+  <h3>Over 6 years of experience as a solution driven information technology professional with proven education and experience while delivering projects and throughput well within targeted SLAs.</h3>
+
+<div class="topnav">
+  <a href="www.linkedin.com/in/lauren-ryder-00675617b"> Lauren's Linkedin</a>
+</div>
+
+</body>
+</html>
 
 <div class="header">
   <h1>Lauren Ryder</h1>
