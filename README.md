@@ -91,7 +91,7 @@ body {
   </div>
 
   <div class="column side">
-    <h2>Leap Learnings!</h2>
+    <h3>Leap Learnings!</h3>
     <dl>
       <dt><strong>Essential Training: The Basics</strong></dt>
       <dd>Learn how to use Git, the popular open-source version control software, to manage the source code for almost any project.</dd>
@@ -110,8 +110,9 @@ body {
 </div>
 
 <div class="footer">
-  <p>Education<</p>
-  University of Phoenix September 2012
-  Associates of Arts, Intro to Information Technology
-  GPA 3.0/4.0
+  <h4>Education</h4>
+  <p>University of Phoenix September 2012<br>
+  Associates of Arts, Intro to Information Technology<br>
+  GPA 3.0/4.0<br>
+  </p>
 </div>
