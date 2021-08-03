@@ -21,13 +21,12 @@ body {
 <body>
 
 <div class="header">
-  <h1>Header</h1>
+  <h1>Lauren Ryder</h1>
 </div>
-
-</body>
-</html>
 <h2><Strong>Deployment Technician / Leap Apprentice</strong></h2>
 <h3>Over 6 years of experience as a solution driven information technology professional with proven education and experience while delivering projects and throughput well within targeted SLAs.</h3>
+</body>
+</html>
 
 <div id="sidebar">
 		<aside>
