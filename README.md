@@ -8,7 +8,7 @@ h1, h2, h3, h4, h5, h6  {color: white;}
 p, li, footer, small {color: white;}
 </style>
 <h1 style="color:pink;">Lauren Ryder</h1>
-
+![me](Lauren.jpg)
 <div class="banner">
 <header>
 <h2><Strong>Deployment Technician / Leap Apprentice</strong></h2>
