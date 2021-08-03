@@ -1,25 +1,14 @@
-# LaurenRyderResume
-
 <!DOCTYPE html>
 <html>
 <head>
 <Title> Lauren Ryder </Title>
-<link rel="stylesheet" type="text/css" href="styles.css">
+![stylesheet] C:\Users\laryder\Documents\first_git_project\LaurenRyderResume\styles.css">
 </head>
-<style>
-body {background-color: powderblue;}
-h1   {color: blue;}
-p    {color: red;}
-</style>
-</head>
-<body>
 
-<h1> Title This is a heading</h1>
-<p>This is a paragraph.</p>
+<h1> Deployment Technician / Leap Apprentice </h1>
+<h2>Over 6 years of experience as a solution driven information technology professional with proven education and experience while delivering projects and throughput well within targeted SLAs.</h2>
 
-</body>
 </html>
-Over 6 years of experience as a solution driven information technology professional with proven education and experience while delivering projects and throughput well within targeted SLAs.
 
 Specific Skills:
 
