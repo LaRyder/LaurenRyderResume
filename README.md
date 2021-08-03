@@ -2,7 +2,7 @@
 <html>
 <head>
 <Title> Lauren Ryder </Title>
-![stylesheet] C:\Users\laryder\Documents\first_git_project\LaurenRyderResume\styles.css">
+![styles.css] (styles.css)
 </head>
 
 <h1> Deployment Technician / Leap Apprentice </h1>
