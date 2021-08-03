@@ -5,7 +5,8 @@
 body {
   margin: 0;
     background-color: purple;
-    color: pink
+    color: pink;
+    border-style: dotted
 }
 
 /* Style the header */
