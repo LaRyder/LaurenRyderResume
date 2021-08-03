@@ -13,7 +13,7 @@ p, li, footer, small {color: white;}
 <header>
 <h2><Strong>Deployment Technician / Leap Apprentice</strong></h2>
 <h3>Over 6 years of experience as a solution driven information technology professional with proven education and experience while delivering projects and throughput well within targeted SLAs.</h3>
-</div>
+</center>
 
 <div id="sidebar">
 		<aside>
@@ -37,7 +37,6 @@ p, li, footer, small {color: white;}
 
 <body>
 <h4><b>My Specific Skills:</b></h4>
-<li>
   <li>HP Server Hardware support</li>
   <li>Cisco, F5 and Juniper Network </li>  
   <li>Datacenter network infrastructure</li>
@@ -50,7 +49,6 @@ p, li, footer, small {color: white;}
   <li>MSAsset</li>
   <li>Phynet/ PNaaS</li>
   <li>GDCO</li>
-</li>
 <h5><b>My Experience:</b></h5>
 <small>Microsoft May 2017- Present
 Site Services Technician Boydton, VA
@@ -69,6 +67,7 @@ Site Services Technician Boydton, VA
 <p>Install/ upgrade/ replace server, device, or network components as needed</p>
 <p>Networking support (protocols, troubleshooting connectivity)</p>
 </small>
+
 <footer>
 <h6><b>Education:</b></h6>
 University of Phoenix September 2012
