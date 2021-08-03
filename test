@@ -1,57 +1,71 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-* {
-  box-sizing: border-box;
-}
+<div class="row">
+  <div class="leftcolumn">
+    <div class="card">
+      <h2>My Specific Skills:</h2>
+      <p>  <li>HP Server Hardware support</li>
+        <li>Cisco, F5 and Juniper Network </li>
+        <li>Datacenter network infrastructure</li>
+        <li>Organized and efficient in a dynamic and high-pressure environment</li>
+        <li>Experience in Bing, Office 365, Xbox, OneDrive and Microsoft Azure platforms</li>
+        <li>Experience performing cable installations, hardware rack /stack installations, testing, and troubleshooting using standard datacenter processes.</li>
+        <li>Problem Solving</li>
+        <li>Verbal/Written Communication</li>
+        <li>Microsoft Office</li>
+        <li>MSAsset</li>
+        <li>Phynet/ PNaaS</li>
+        <li>GDCO</li> </p>
+    </div>
+<div class="rightcolumn">
+ <div class="card">
+   <h2>Leap Learnings!</h2>
+   <dl>
+     <dt><strong>Essential Training: The Basics</strong></dt>
+     <dd>Learn how to use Git, the popular open-source version control software, to manage the source code for almost any project.</dd>
+     <dd><a href="https://www.linkedin.com/learning/git-essential-training-the-basics/use-git-version-control-software-to-manage-project-code?u=3322">View Course on LinkedIn</a></dd><br>
+     <dt><strong>HTML Essential Training</strong></dt>
+     <dd>Learn how to write HTML, the programming language that powers the web.</dd>
+     <dd><a href="https://www.linkedin.com/learning/html-essential-training-4/what-is-html?u=3322">View Course on LinkedIn</a></dd><br>
+     <dt><strong>Git: Branches, Merges, and Remotes</strong></dt>
+     <dd>This course covers powerful git features like branching, merging, and remote repositories.</dd>
+     <dd><a href="https://www.linkedin.com/learning/git-branches-merges-and-remotes/unlock-powerful-code-management-and-collaboration-tools-in-git?u=3322">View Course on LinkedIn</a></dd><br>
+     <dt><strong>Introduction to CSS</strong></dt>
+     <dd>This course gives you a tour of the possibilities, showing what CSS is capable of doing and the basics you need to make it work for you.</dd>
+     <dd><a href="https://www.linkedin.com/learning/introduction-to-css/welcome?u=3322">View Course on LinkedIn</a></dd>
+   </dl>
+ </div>
 
-body {
-  font-family: Arial;
-  padding: 10px;
-  background: #purple;
-}
-
-/* Header/Blog Title */
-.header {
-  padding: 30px;
-  text-align: center;
-  background: white;
-}
-
-.header h1 {
-  font-size: 50px;
-}
-
-/* Style the top navigation bar */
-.topnav {
-  overflow: hidden;
-  background-color: pink;
-}
-
-/* Style the topnav links */
-.topnav a {
-  float: Center;
-  display: block;
-  color: pink;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-/* Change color on hover */
-.topnav a:hover {
-  background-color: #ddd;
-  color: black;
-}
-
-/* Right column */
-.rightcolumn {
+<h5><b>My Experience:</b></h5>
+<small>Microsoft May 2017- Present
+Site Services Technician Boydton, VA
+<p>Daily collaboration amongst a team of diverse professionals to support physical infrastructure, cabling, parts/component replacements, and troubleshooting of DC operations.</P>
+<p>Responsible for effectively prioritizing daily assignments of tasks and tickets based on business requirements.</P>
+<p>Relied upon to complete high visibility HBI Asset Audits across Multiple Datacenters to enable compliance and regulatory audit preparation activities.</P>
+<p>Focused on flexibility to support the Datacenter in any capacity when called upon.</P>
+<p>Takes pride in providing outstanding customer service through highly developed communication skills.</P>
+<p>Ensure processes and procedures are followed, and that trust and integrity is maintained per Microsoft Global Foundation Services policy.</P>
+</small>
+<small>Atos IT Solutions & Services
+February 2015 – May 2017
+Site Services Technician Boydton, VA
+<p>Monitor and control daily service ticket activity, customer calls and service levels</p>
+<p>Resolve technical problems with hardware, software and connectivity</p>
+<p>Install/ upgrade/ replace server, device, or network components as needed</p>
+<p>Networking support (protocols, troubleshooting connectivity)</p>
+</small>
+/* Create three unequal columns that floats next to each other */
+.column {
   float: left;
+  padding: 10px;
+}
+
+/* Left and right column */
+.column.side {
   width: 25%;
-  background-color: purple;
-  color: pink
-  padding-left: 20px;
+}
+
+/* Middle column */
+.column.middle {
+  width: 50%;
 }
 
 /* Clear floats after the columns */
@@ -61,49 +75,41 @@ body {
   clear: both;
 }
 
-/* Footer */
-.footer {
-  padding: 20px;
-  text-align: center;
-  background: purple;
-  margin-top: 20px;
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column.side, .column.middle {
+    width: 100%;
+  }
 }
 </style>
 </head>
 <body>
 
 <div class="header">
-  <h1>Lauren Ryder</h1>
-  <p>Deployment Technician / Leap Apprentice</p>
-  <p>Over 6 years of experience as a solution driven information technology professional with proven education and experience while delivering projects and throughput well within targeted SLAs.</p>
+  <h1>Header</h1>
+  <p>Resize the browser window to see the responsive effect.</p>
 </div>
 
 <div class="topnav">
-    <a href="www.linkedin.com/in/lauren-ryder-00675617b"> Lauren's Linkedin</a>
-  <a href="#" style="float:right">Link</a>
+  <a href="#">Link</a>
+  <a href="#">Link</a>
+  <a href="#">Link</a>
 </div>
 
 <div class="row">
-  <div class="leftcolumn">
-    <div class="card">
-      <h2>TITLE HEADING</h2>
-      <h5>Title description, Dec 7, 2017</h5>
-      <div class="fakeimg" style="height:200px;">Image</div>
-      <p>Some text..</p>
-      <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
-    </div>
-    <div class="card">
-      <h2>TITLE HEADING</h2>
-      <h5>Title description, Sep 2, 2017</h5>
-      <div class="fakeimg" style="height:200px;">Image</div>
-      <p>Some text..</p>
-      <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
-    </div>
-</div>
+  <div class="column side">
+    <h2>Side</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit..</p>
+  </div>
 
-<div class="footer">
-  <h2>Footer</h2>
-</div>
+  <div class="column middle">
+    <h2>Main Content</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet pretium urna. Vivamus venenatis velit nec neque ultricies, eget elementum magna tristique. Quisque vehicula, risus eget aliquam placerat, purus leo tincidunt eros, eget luctus quam orci in velit. Praesent scelerisque tortor sed accumsan convallis.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet pretium urna. Vivamus venenatis velit nec neque ultricies, eget elementum magna tristique. Quisque vehicula, risus eget aliquam placerat, purus leo tincidunt eros, eget luctus quam orci in velit. Praesent scelerisque tortor sed accumsan convallis.</p>
+  </div>
 
-</body>
-</html>
+  <div class="column side">
+    <h2>Side</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit..</p>
+  </div>
+</div>
