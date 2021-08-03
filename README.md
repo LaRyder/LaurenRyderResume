@@ -48,8 +48,8 @@ body {
 
 <div class="header">
   <h1>Lauren Ryder</h1>
-  <h2><Strong>Deployment Technician / Leap Apprentice</strong></h2>
-  <h3>Over 6 years of experience as a solution driven information technology professional with proven education and experience while delivering projects and throughput well within targeted SLAs.</h3>
+  <p>Deployment Technician / Leap Apprentice</p>
+  <p>Over 6 years of experience as a solution driven information technology professional with proven education and experience while delivering projects and throughput well within targeted SLAs.</p>
 
 <div class="topnav">
   <a href="www.linkedin.com/in/lauren-ryder-00675617b"> Lauren's Linkedin</a>
@@ -75,20 +75,44 @@ body {
 		</aside>
 	</div>
 
-<body>
-<h4><b>My Specific Skills:</b></h4>
-  <li>HP Server Hardware support</li>
-  <li>Cisco, F5 and Juniper Network </li>  
-  <li>Datacenter network infrastructure</li>
-  <li>Organized and efficient in a dynamic and high-pressure environment</li>
-  <li>Experience in Bing, Office 365, Xbox, OneDrive and Microsoft Azure platforms</li>                        
-  <li>Experience performing cable installations, hardware rack /stack installations, testing, and troubleshooting using standard datacenter processes.</li>
-  <li>Problem Solving</li>
-  <li>Verbal/Written Communication</li>
-  <li>Microsoft Office</li>
-  <li>MSAsset</li>
-  <li>Phynet/ PNaaS</li>
-  <li>GDCO</li>
+  <div class="row">
+    <div class="leftcolumn">
+      <div class="card">
+        <h2>My Specific Skills:</h2>
+        <p>  <li>HP Server Hardware support</li>
+          <li>Cisco, F5 and Juniper Network </li>  
+          <li>Datacenter network infrastructure</li>
+          <li>Organized and efficient in a dynamic and high-pressure environment</li>
+          <li>Experience in Bing, Office 365, Xbox, OneDrive and Microsoft Azure platforms</li>                        
+          <li>Experience performing cable installations, hardware rack /stack installations, testing, and troubleshooting using standard datacenter processes.</li>
+          <li>Problem Solving</li>
+          <li>Verbal/Written Communication</li>
+          <li>Microsoft Office</li>
+          <li>MSAsset</li>
+          <li>Phynet/ PNaaS</li>
+          <li>GDCO</li> </p>
+      </div>
+
+
+<div class="rightcolumn">
+   <div class="card">
+     <h2>Leap Learnings!</h2>
+     <dl>
+       <dt><strong>Essential Training: The Basics</strong></dt>
+       <dd>Learn how to use Git, the popular open-source version control software, to manage the source code for almost any project.</dd>
+       <dd><a href="https://www.linkedin.com/learning/git-essential-training-the-basics/use-git-version-control-software-to-manage-project-code?u=3322">View Course on LinkedIn</a></dd><br>
+       <dt><strong>HTML Essential Training</strong></dt>
+       <dd>Learn how to write HTML, the programming language that powers the web.</dd>
+       <dd><a href="https://www.linkedin.com/learning/html-essential-training-4/what-is-html?u=3322">View Course on LinkedIn</a></dd><br>
+       <dt><strong>Git: Branches, Merges, and Remotes</strong></dt>
+       <dd>This course covers powerful git features like branching, merging, and remote repositories.</dd>
+       <dd><a href="https://www.linkedin.com/learning/git-branches-merges-and-remotes/unlock-powerful-code-management-and-collaboration-tools-in-git?u=3322">View Course on LinkedIn</a></dd><br>
+       <dt><strong>Introduction to CSS</strong></dt>
+       <dd>This course gives you a tour of the possibilities, showing what CSS is capable of doing and the basics you need to make it work for you.</dd>
+       <dd><a href="https://www.linkedin.com/learning/introduction-to-css/welcome?u=3322">View Course on LinkedIn</a></dd>
+     </dl>
+   </div>
+
 <h5><b>My Experience:</b></h5>
 <small>Microsoft May 2017- Present
 Site Services Technician Boydton, VA
@@ -114,3 +138,4 @@ Site Services Technician Boydton, VA
   Associates of Arts, Intro to Information Technology
   GPA 3.0/4.0
 </div>
+\
