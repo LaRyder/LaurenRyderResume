@@ -16,6 +16,7 @@ body {
 /* Style the header */
 .header {
   background-color: purple;
+  color: pink
   padding: 20px;
   text-align: center;
 }
