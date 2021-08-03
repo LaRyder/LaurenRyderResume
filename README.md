@@ -53,15 +53,6 @@ body {
 <div class="topnav">
   <a href="www.linkedin.com/in/lauren-ryder-00675617b"> Lauren's Linkedin</a>
 </div>
-
-</body>
-</html>
-
-<div class="header">
-  <h1>Lauren Ryder</h1>
-  <h2><Strong>Deployment Technician / Leap Apprentice</strong></h2>
-  <h3>Over 6 years of experience as a solution driven information technology professional with proven education and experience while delivering projects and throughput well within targeted SLAs.</h3>
-</div>
 </body>
 </html>
 
