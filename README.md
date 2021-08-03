@@ -1,12 +1,11 @@
 
-<!DOCTYPE html>
 <html>
 <head>
 <center>
 <style>
 body {background-color: Purple;}
-h1, h2, h3  {color: white;}
-p {color: white;}
+h1, h2, h3, h4, h5, h6  {color: white;}
+p, li {color: white;}
 </style>
 <h1 style="color:pink;">Lauren Ryder</h1>
 
@@ -16,7 +15,7 @@ p {color: white;}
 <h2> Deployment Technician / Leap Apprentice </h2>
 <h3>Over 6 years of experience as a solution driven information technology professional with proven education and experience while delivering projects and throughput well within targeted SLAs.</h3>
 
-<b>Specific Skills:</b>
+<h4><b>Specific Skills:</b><h/h4>
 
 <li>HP Server Hardware support</li>
 <li>Cisco, F5 and Juniper Network </li>  
@@ -31,7 +30,7 @@ p {color: white;}
 <li>Phynet/ PNaaS</li>
 <li>GDCO</li>
 
-<b>Experience:</b>
+<h5><b>Experience:</b></h5>
 Microsoft May 2017- Present
 Site Services Technician Boydton, VA
 <p>Daily collaboration amongst a team of diverse professionals to support physical infrastructure, cabling, parts/component replacements, and troubleshooting of DC operations.</P>
@@ -49,7 +48,7 @@ Site Services Technician Boydton, VA
 <p>Install/ upgrade/ replace server, device, or network components as needed</p>
 <p>Networking support (protocols, troubleshooting connectivity)</p>
 <footer>
-<b>Education:</b>
+<h6><b>Education:</b></h6>
 University of Phoenix September 2012
 Associates of Arts, Intro to Information Technology  
 GPA 3.0/4.0
