@@ -4,48 +4,32 @@
 <head>
 <h1 style="color:pink;">Lauren Ryder</h1>
 
-// style the background color of the tree view
-.tree-view {
-  // background-color: pink ;
-}
-
-// style the background and foreground colors on the atom-text-editor-element itself
-atom-text-editor {
-  // color: white;
-  // background-color: hsl(180, 24%, 12%);
-}
-
-// style UI elements inside atom-text-editor
-atom-text-editor .cursor {
-  // border-color: white;
-}
 </head>
 
-< <h2> Deployment Technician / Leap Apprentice </h2>
+<body>
+<div class="banner">
+![Lauren](Lauren.JPG)
+<h2> Deployment Technician / Leap Apprentice </h2>
 <h3>Over 6 years of experience as a solution driven information technology professional with proven education and experience while delivering projects and throughput well within targeted SLAs.</h3>
 
-</html>
+<b>Specific Skills:</b>
 
-Specific Skills:
+<li>HP Server Hardware support</li>
+<li>Cisco, F5 and Juniper Network </li>  
+<li>Datacenter network infrastructure</li>
+<li>Organized and efficient in a dynamic and high-pressure environment</li>
+<li>Experience in Bing, Office 365, Xbox, OneDrive and Microsoft Azure platforms</li>                        
+<li>Experience performing cable installations, hardware rack /stack installations, testing, and troubleshooting using standard datacenter processes.</li>
+<li>Problem Solving</li>
+<li>Verbal/Written Communication</li>
+<li>Microsoft Office</li>
+<li>MSAsset</li>
+<li>Phynet/ PNaaS</li>
+<li>GDCO</li>
 
-HP Server Hardware support
-Cisco, F5 and Juniper Network   
-Datacenter network infrastructure
-Organized and efficient in a dynamic and high-pressure environment
-Experience in Bing, Office 365, Xbox, OneDrive and Microsoft Azure platforms                        
-Experience performing cable installations, hardware rack /stack installations, testing, and troubleshooting using standard datacenter processes.
-Problem Solving
-Customer Service and Cross Team Collaboration
-Verbal/Written Communication
-Software Platforms & Tooling:
-Microsoft Office
-MSAsset
-Phynet/ PNaaS
-GDCO  
-
-Experience:
-Microsoft                                                                                                                                                     May 2017- Present
-Site Services Technician                                                                                                                                      Boydton, VA
+<b>Experience:</b>
+Microsoft                                                                                                                                   May 2017- Present
+Site Services Technician                                                                                                                                  Boydton, VA
 Daily collaboration amongst a team of diverse professionals to support physical infrastructure, cabling, parts/component replacements, and troubleshooting of DC operations.
 Seamlessly executes work orders via GDCO in a fast paced, high volume environment while delivering work inside aggressive deadlines.
 Responsible for effectively prioritizing daily assignments of tasks and tickets based on business requirements.
@@ -56,13 +40,15 @@ Ensure processes and procedures are followed, and that trust and integrity is ma
 
 Atos IT Solutions & Services                  
 February 2015 – May 2017
-Site Services Technician                                                                                                                                      Boydton, VA
+Site Services Technician                                                                                                                                  Boydton, VA
 Monitor and control daily service ticket activity, customer calls and service levels
 Resolve technical problems with hardware, software and connectivity
 Install/ upgrade/ replace server, device, or network components as needed
 Windows Server OS Support (2008/2012)
 Networking support (protocols, troubleshooting connectivity)
-Education:
-University of Phoenix                                                                                                                       September 2012
+<b>Education:</b>
+University of Phoenix                                                               September 2012
 Associates of Arts, Intro to Information Technology  
 GPA 3.0/4.0  
+</body>
+</html>
