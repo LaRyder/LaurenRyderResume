@@ -19,14 +19,14 @@ body {
   color: pink;
   padding: 20px;
   text-align: center;
-  p.dotted {border-style: dotted;}
+  p.dotted {border-style: dotted;
 }
 
 /* Style the top navigation bar */
 .topnav {
   overflow: hidden;
   background-color: purple;
-  p.dotted {border-style: dotted;}
+  p.dotted {border-style: dotted;
 }
 
 /* Style the topnav links */
@@ -45,7 +45,7 @@ body {
   float: left;
   text-align: left;
   padding: 10px;
-  p.dotted {border-style: dotted;}
+  p.dotted {border-style: dotted;
 }
 /* Left column */
 .column.side {
@@ -56,7 +56,7 @@ body {
 float: right;
 text-align: center;
 padding: 10px;
-p.dotted {border-style: dotted;}
+p.dotted {border-style: dotted;
 }
 
 /* Sidebar */
@@ -69,7 +69,7 @@ p.dotted {border-style: dotted;}
   color: pink;
   padding: 10px;
   text-align: center;
-  p.dotted {border-style: dotted;}
+  p.dotted {border-style: dotted;
 }
 
 /* Create one column for text under floating columns */
@@ -80,7 +80,7 @@ p.dotted {border-style: dotted;}
   /* Center column */
   .column.Center {
     width: 100%;
-    p.dotted {border-style: dotted;}
+    p.dotted {border-style: dotted;
 }
 
 </style>
@@ -98,7 +98,7 @@ p.dotted {border-style: dotted;}
 
 <div class="row">
   <div class="column side">
-  <h2><b> Specific Skills:</b></h2>
+  <h2><strong> Specific Skills:</strong></h2>
     <li>HP Server Hardware support</li>
     <li>Cisco, F5 and Juniper Network </li>  
     <li>Datacenter network infrastructure</li>
@@ -115,17 +115,17 @@ p.dotted {border-style: dotted;}
 
   <div class="sidebar">
    <aside>
-    <h3><b>Leap Learnings!</b></h3>
+    <h3><strong>Leap Learnings!</strong></h3>
     <dl>
       <dt><strong>Essential Training: The Basics</strong></dt>
       <dd>Learn how to use Git, the popular open-source version control software, to manage the source code for almost any project.</dd>
-      <dd><a href="https://www.linkedin.com/learning/git-essential-training-the-basics/use-git-version-control-software-to-manage-project-code?u=3322">View Course on LinkedIn</a></dd><br>
+      <dd><a href="https://www.linkedin.com/learning/git-essential-training-the-basics/use-git-version-control-software-to-manage-project-code?u=3322">View Course on LinkedIn</a></dd>
       <dt><strong>HTML Essential Training</strong></dt>
       <dd>Learn how to write HTML, the programming language that powers the web.</dd>
-      <dd><a href="https://www.linkedin.com/learning/html-essential-training-4/what-is-html?u=3322">View Course on LinkedIn</a></dd><br>
+      <dd><a href="https://www.linkedin.com/learning/html-essential-training-4/what-is-html?u=3322">View Course on LinkedIn</a></dd>
       <dt><strong>Git: Branches, Merges, and Remotes</strong></dt>
       <dd>This course covers powerful git features like branching, merging, and remote repositories.</dd>
-      <dd><a href="https://www.linkedin.com/learning/git-branches-merges-and-remotes/unlock-powerful-code-management-and-collaboration-tools-in-git?u=3322">View Course on LinkedIn</a></dd><br>
+      <dd><a href="https://www.linkedin.com/learning/git-branches-merges-and-remotes/unlock-powerful-code-management-and-collaboration-tools-in-git?u=3322">View Course on LinkedIn</a></dd>
       <dt><strong>Introduction to CSS</strong></dt>
       <dd>This course gives you a tour of the possibilities, showing what CSS is capable of doing and the basics you need to make it work for you.</dd>
       <dd><a href="https://www.linkedin.com/learning/introduction-to-css/welcome?u=3322">View Course on LinkedIn</a></dd>
@@ -134,7 +134,7 @@ p.dotted {border-style: dotted;}
   </div>
 
   <div class="column center">
-  <h5><b>My Experience:</b></h5>
+  <h5><strong>My Experience:</strong></h5>
   <p>Microsoft May 2017- Present</p>
   <p>Site Services Technician Boydton, VA</p>
   <p>Daily collaboration amongst a team of diverse professionals to support physical infrastructure, cabling, parts/component replacements, and troubleshooting of DC operations.<br>
