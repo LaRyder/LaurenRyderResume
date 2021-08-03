@@ -1,11 +1,27 @@
+
 <!DOCTYPE html>
 <html>
 <head>
-<h1> Lauren Ryder </h1>
-[id]: url "LaurenRyderResume\styles.css"
+<h1 style="color:pink;">Lauren Ryder</h1>
+
+// style the background color of the tree view
+.tree-view {
+  // background-color: pink ;
+}
+
+// style the background and foreground colors on the atom-text-editor-element itself
+atom-text-editor {
+  // color: white;
+  // background-color: hsl(180, 24%, 12%);
+}
+
+// style UI elements inside atom-text-editor
+atom-text-editor .cursor {
+  // border-color: white;
+}
 </head>
 
-<h2> Deployment Technician / Leap Apprentice </h2>
+< <h2> Deployment Technician / Leap Apprentice </h2>
 <h3>Over 6 years of experience as a solution driven information technology professional with proven education and experience while delivering projects and throughput well within targeted SLAs.</h3>
 
 </html>
