@@ -15,9 +15,9 @@ p, li, footer, small {color: white;}
   background-color: #F1F1F1;
   text-align: center;
   padding: 20px;
+}
 <h2><Strong>Deployment Technician / Leap Apprentice</strong></h2>
 <h3>Over 6 years of experience as a solution driven information technology professional with proven education and experience while delivering projects and throughput well within targeted SLAs.</h3>
-}
 
 <div id="sidebar">
 		<aside>
