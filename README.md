@@ -7,7 +7,7 @@ h1, h2, h3, h4, h5, h6  {color: white;}
 p, li, footer, small {color: white;}
 
 <h1 style="color:pink;">Lauren Ryder</h1>
-![me](Lauren.jpg)
+
 .container {
   display: flex;
   flex direction: column;
@@ -75,6 +75,7 @@ Site Services Technician Boydton, VA
 <p>Networking support (protocols, troubleshooting connectivity)</p>
 </small>
 }
+
 .footer {
   clear:both;
 <b>Education:</b>
