@@ -1,0 +1,72 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+    background-color: purple;
+    color: pink
+}
+
+/* Style the header */
+.header {
+  color: pink;
+  padding: 20px;
+  text-align: center;
+  display:flex
+}
+
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+}
+
+/* Style the topnav links */
+.topnav a {
+  display: block;
+  color: pink;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Create one column for skills */
+.column {
+  text-align: left;
+  padding: 10px;
+}
+/* Left column */
+.column.side {
+  width: 75%;
+}
+
+/* Create one sidebar for learnings */
+p.dotted {
+  border-style: dotted;
+}
+
+/* Sidebar */
+aside {
+  width: 25%;
+}
+/* Style the footer */
+.footer {
+  background-color: purple;
+  color: pink;
+  padding: 10px;
+  text-align: center;
+}
+
+/* Create one column for text under floating columns */
+.column {
+  padding: 10px
+}
+
+/* Center column */
+.column.Center {
+  width: 100%;
+}
+
+.side_by_side {
+  display: flex;
+}
