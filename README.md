@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-<b> Lauren Ryder </b>
-[id]: url "styles.css"
+<h1> Lauren Ryder </h1>
+[id]: url "LaurenRyderResume\styles.css"
 </head>
 
-<h1> Deployment Technician / Leap Apprentice </h1>
-<h2>Over 6 years of experience as a solution driven information technology professional with proven education and experience while delivering projects and throughput well within targeted SLAs.</h2>
+<h2> Deployment Technician / Leap Apprentice </h2>
+<h3>Over 6 years of experience as a solution driven information technology professional with proven education and experience while delivering projects and throughput well within targeted SLAs.</h3>
 
 </html>
 
