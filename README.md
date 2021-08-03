@@ -4,12 +4,11 @@
 <head>
 <center>
 <style>
-body {background-color: powderblue;}
-h1   {color: blue;}
-p    {color: red;}
+body {background-color: Purple;}
+h1, h2, h3  {color: white;}
+p {color: white;}
 </style>
 <h1 style="color:pink;">Lauren Ryder</h1>
-![lauren](LaurenRyderResume\Lauren.JPG)
 
 </head>
 
@@ -17,7 +16,6 @@ p    {color: red;}
 <div class="banner">
 <h2> Deployment Technician / Leap Apprentice </h2>
 <h3>Over 6 years of experience as a solution driven information technology professional with proven education and experience while delivering projects and throughput well within targeted SLAs.</h3>
-</header>
 
 <b>Specific Skills:</b>
 
@@ -57,6 +55,3 @@ University of Phoenix September 2012
 Associates of Arts, Intro to Information Technology  
 GPA 3.0/4.0
 </footer>
-</body>
-</center>
-</html>
