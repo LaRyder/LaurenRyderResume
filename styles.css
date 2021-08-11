@@ -6,6 +6,11 @@ body {
     border-color: black;
     padding: 20px
 }
+a{
+  border: double;
+  padding: 5px;
+  color: purple;
+}
 /* Style the header */
 .header {
   padding: 20px;
@@ -25,6 +30,7 @@ body {
   text-align: left;
   padding: 15px;
   width: 65%;
+  font-size: small;
 }
 /* Sidebar */
 aside {
@@ -33,6 +39,7 @@ aside {
   padding: 10px;
   border: solid;
   box-shadow: 10px 10px 10px;
+  font-size: small;
 }
   /* Centercolumn */
 .ColumnCenter {
@@ -41,8 +48,8 @@ aside {
 }
  /* Bottom Column */
 .ColumnBottom {
-  padding: 10px;
   text-align: left;
+  font-size: large;
 }
 .side_by_side {
   display: flex;
