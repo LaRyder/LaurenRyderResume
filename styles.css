@@ -28,9 +28,13 @@ a{
 /* Create one column for skills */
 .ColumnSide {
   text-align: left;
-  padding: 15px;
   width: 65%;
   font-size: small;
+  padding:20px;
+  
+}
+h2{
+  font-size: x-large;
 }
 /* Sidebar */
 aside {
@@ -45,11 +49,20 @@ aside {
 .ColumnCenter {
   width: 100%;
   text-align: left;
+  padding:20px;
+  font-size: medium;
+}
+h4{
+  font-size:x-large;
 }
  /* Bottom Column */
 .ColumnBottom {
   text-align: left;
   font-size: large;
+  padding:20px
+}
+h5{
+  font-size: x-large;
 }
 .side_by_side {
   display: flex;
