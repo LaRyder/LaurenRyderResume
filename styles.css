@@ -1,16 +1,15 @@
 body {
   margin: 10;
-    color: black;
+    color: black
 }
+  /*Setting a border around links*/
 a{
   border: double;
   padding: 5px;
-  color: black;
+  color: black
 }
 .bg-image {
-    /* Position: absolute will put the element with this class at the top left of the page without caring what other elements are around it. Aka: other elements won't affect this element's position*/
     position: absolute;
-    /* These will horizontally center this element on the page*/
     left: 50%;
     transform: translate(-50%, 0%);
     -webkit-filter: blur(2px);
@@ -47,8 +46,6 @@ a{
   width: 65%;
   font-size: small;
   padding:20px;
-
-
 }
 h2{
   font-size: x-large;
